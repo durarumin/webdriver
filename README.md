@@ -3,7 +3,7 @@ webdriver
 
 webdriverのテスト用のリポジトリ
 
-***TestSuiteにする場合***
+TestSuiteにする場合
 1.TestSuiteクラスを作成
 2.以下を追加
 @RunWith(Suite.class)
